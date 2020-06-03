@@ -1,0 +1,12 @@
+body{
+	font-family: helvetica;
+	color: #FFFFFF;
+	background-color: #444444;
+}
+
+.playerStats {
+	background-color: #222222;
+	width: 80px;
+	padding: 6px;
+	text-align: center;
+}
